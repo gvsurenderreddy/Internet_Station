@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Start_Slax_Firefox
+Exec=/home/slax_routine.sh
